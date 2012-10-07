@@ -1,4 +1,4 @@
-# vACCBiH sector/ese files for VRC
+# vACCBiH sector/pof files for VRC
 
 # Changelog
 
@@ -25,7 +25,7 @@ here's what you get and what you don't:
 * None of the freetext elements that are only supported by Euroscope
 * None of the extended position information, sector ownership logic and vis centers, that are only supported by ES
 * No automatic airport activation, automatic metar loading, auto assignable rwys and SIDs, only supported by ES
-* No GEO zones, all GEO can only be shown or hidden at once
+* No separate GEO zones, all GEO can only be shown or hidden at once
 
 
 ## Installation
