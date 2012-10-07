@@ -16,6 +16,7 @@ here's what you get and what you don't:
 * Accurate updated navaids
 * Accurate updated ground layouts for LQSA, LQMO, LQBK
 * Accurate updated SID / STAR / APP tracks that can be displayed for reference for LQSA, LQMO, LQBK
+  (View => Diagrams... Menu)
 * Accurate airspace rendition with correct names
 * Accurate station information, frequencies and sq ranges for all BiH ATC stations
 
