@@ -6,6 +6,10 @@
 
 **For Euroscope use [this](https://github.com/tarakanbg/vaccbih_sct_files) version.**
 
+## v. 1211
+
+* Adjusted new frequency for Mostar Tower
+
 ## v. 1210
 
 Compared to our [Euroscope new versions](https://github.com/tarakanbg/vaccbih_sct_files)

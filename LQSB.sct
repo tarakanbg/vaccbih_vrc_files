@@ -1,5 +1,5 @@
-; --- Region:     FIR_SARAJEVO Sector File
-; --- Version:    1210
+; --- Region:     FIR_SARAJEVO Sector File (VRC version)
+; --- Version:    1211
 ; --- Created By:   Svilen Vassilev & vACCBiH Team, vaccbih.info
 
 #define aqua 16776960
@@ -19,7 +19,7 @@
 #define yellow 65535
 
 [INFO]
-vACCBiH LQSB 1210
+vACCBiH LQSB 1211
 LQSB
 LQSA
 N043.49.28.499
