@@ -4,7 +4,7 @@
 ;Edited by Svilen Vassilev - vACCBiH
 ;For use with VRC and LQSB Airspace
 ;
-;Version 1210
+;Version 1211
 ;
 ;
 ;Sarajevo Butmir
@@ -25,7 +25,7 @@ Banjaluka Tower:-:118.950:BT:TB:LQBK:TWR:LQBK:TWR:5170:5177
 ;
 ;Mostar Ortijes
 Mostar Approach:-:120.220:MA:AM:LQMO:APP:LQMO:APP:5170:5177
-Mostar Tower:-:122.100:MT:TM:LQMO:TWR:LQMO:TWR:5170:5177
+Mostar Tower:-:124.200:MT:TM:LQMO:TWR:LQMO:TWR:5170:5177
 ;
 ;
 ;Beograd FIR
